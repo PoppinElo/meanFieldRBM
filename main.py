@@ -1,9 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Sat Sep 21 01:55:48 2019
-
-@author: developer
+@author: Kevin
 """
 
 import numpy as np
