@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Sat Sep 21 00:31:56 2019
-
 @author: developer
 """
 
