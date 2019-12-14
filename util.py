@@ -1,5 +1,5 @@
 """
-@author: developer
+@author: Kevin
 """
 
 import numpy as np
